@@ -7,7 +7,7 @@
 
 ## KNN
 - Write KNN(K Nearest Neighbors) algorithm from scratch then compare with sklearn KNeighborsClassifier.
-- Working on <a href='https://www.kaggle.com/mustafaali96/weight-height'>weight-height Dataset.</a> on kaggle.
+- Working on <a href='https://www.kaggle.com/mustafaali96/weight-height'>weight-height Dataset</a> on kaggle.
 
 
 ## KNN OCR
