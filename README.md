@@ -38,11 +38,11 @@
 
 #### KNN
 - Write KNN(K Nearest Neighbors) algorithm from scratch then compare with sklearn KNeighborsClassifier.
-- Working on <a href='https://www.kaggle.com/mustafaali96/weight-height'>weight-height Dataset.</a> on kaggle.
+- Working on <a href='https://www.kaggle.com/mustafaali96/weight-height'>weight-height Dataset</a> on kaggle.
 
 
 #### KNN OCR
 - use kNN to build a basic OCR (Optical Character Recognition) application.
 - In this case we work on <a href='https://github.com/BenyaminZojaji/Machine_Learning/blob/main/Assignment34/img/mnist.png'>mnist</a>(Modified National Institute of Standards and Technology dataset) numbers.
 - result ->  accuracy: 91.76
-
+---
