@@ -43,5 +43,6 @@
 
 #### KNN OCR
 - use kNN to build a basic OCR (Optical Character Recognition) application.
-- In this case we work on mnist(Modified National Institute of Standards and Technology dataset) numbers.
+- In this case we work on <a href='https://github.com/BenyaminZojaji/Machine_Learning/blob/main/Assignment34/img/mnist.png'>mnist</a>(Modified National Institute of Standards and Technology dataset) numbers.
 - result ->  accuracy: 91.76
+
