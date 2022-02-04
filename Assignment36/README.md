@@ -9,5 +9,5 @@
 - Obtaining line slope by LLS methods. (formula and scipy library)
 > ![fittedline](https://user-images.githubusercontent.com/77120507/152535641-a1bed5ea-f895-41cb-b0d5-8d4ca587a49f.png)
 ![scipy-fittedline](https://user-images.githubusercontent.com/77120507/152535658-7702ade7-d41b-4ab0-8333-bd6c7cbcc5ce.png)
-- draw both of them in one figure.
+- Draw both of them in one figure.
 > ![both-fittedlines](https://user-images.githubusercontent.com/77120507/152535669-bd944145-1e2e-4519-b34d-9c4257b78013.png)
