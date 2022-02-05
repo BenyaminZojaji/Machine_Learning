@@ -11,3 +11,15 @@
 ![scipy-fittedline](https://user-images.githubusercontent.com/77120507/152535658-7702ade7-d41b-4ab0-8333-bd6c7cbcc5ce.png)
 - Draw both of them in one figure.
 > ![both-fittedlines](https://user-images.githubusercontent.com/77120507/152535669-bd944145-1e2e-4519-b34d-9c4257b78013.png)
+
+## LLS - 2 independent
+- Implementing the LLS method on the <a href='https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html'>Boston dataset</a> from the Scikit-learn library.
+- This database offers thirteen features per house, I chose 'CRIM' and 'TAX'.
+- Lets scatter the data.
+> ![data](https://user-images.githubusercontent.com/77120507/152638221-adb5a55e-a7bf-4530-a639-aebe7981bcf1.png)
+- Apply the LLS method on data and get the predicted-surface and plot it.
+> ![plot-surface](https://user-images.githubusercontent.com/77120507/152638222-133fc3f5-854a-4e69-9e3c-7c5421932df3.png)
+- Lets plot data and predicted-surface in one figure. 
+> ![both-dataSurface](https://user-images.githubusercontent.com/77120507/152638215-745ba00d-4d07-4f49-a219-cd7ba5910d06.png)
+- Lets generate the three different figures from different views to see better.
+> ![3-views](https://user-images.githubusercontent.com/77120507/152638023-e3650536-30e8-4acb-9042-b8f1633af79d.png)
