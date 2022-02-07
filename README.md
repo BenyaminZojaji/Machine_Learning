@@ -57,7 +57,8 @@
 
 #### Abalone EDA[^2]
 - Doing kNN algorithm on <a href='https://archive.ics.uci.edu/ml/datasets/abalone'>Abalone Dataset</a> and obtain the accuracy of the algorithm.
-
+- NOTE: In this exercise, I solved the problem in the form of classification.
+- NOTE: This problem is solved in form of regression in <a href='https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment37'>Assignment 37</a>
 
 [^1]: <a href='https://en.wikipedia.org/wiki/Amphiprioninae'>Clownfish in wikipedia</a>
 [^2]: EDA stands for Exploratory Data Analysis
@@ -88,3 +89,4 @@
 > ![both-dataSurface](https://user-images.githubusercontent.com/77120507/152638215-745ba00d-4d07-4f49-a219-cd7ba5910d06.png)
 - Lets generate the three different figures from different views to see better.
 > ![3-views](https://user-images.githubusercontent.com/77120507/152638023-e3650536-30e8-4acb-9042-b8f1633af79d.png)
+---
