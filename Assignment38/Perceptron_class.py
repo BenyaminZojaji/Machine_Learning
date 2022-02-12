@@ -35,6 +35,7 @@ class Perceptron:
                 self.w += self.learning_rate * e * x
 
                 # visualization
+                fig.clear()
                 Y_pred = np.matmul(self.X_train, self.w)
                 ax = fig.add_subplot(121,projection='3d')
                 ax.clear()
