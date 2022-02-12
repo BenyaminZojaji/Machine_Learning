@@ -63,7 +63,7 @@ class Perceptron:
 
     def evaluate(self, X_test, Y_test):
         Y_pred = np.matmul(X_test, self.w)
-        Error = np.abs(Y - Y_pred)
+        Error = np.abs(Y_test - Y_pred)
         MSE = np.mean(Error**2)
         return MSE
     def predict(self, X_test):
