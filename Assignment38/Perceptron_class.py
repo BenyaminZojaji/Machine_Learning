@@ -54,6 +54,9 @@ class Perceptron:
                 ax2 = fig.add_subplot(122)
                 ax2.clear()
                 ax2.plot(np.arange(0,i+1), self.Errors)
+                ax2.set_xlabel("Iteration #")
+                ax2.set_ylabel("Cost")
+                ax2.set_title('Training Curve')
                 
                 plt.pause(0.01)
         plt.show()
