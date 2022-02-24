@@ -101,3 +101,13 @@
 ![r2](https://user-images.githubusercontent.com/77120507/154802054-d9bf3211-3220-4e1f-8eab-5c728ced739e.png)
 
 [^bad-fit-1]: I am aware of linear model can not fit the data perfectly. This assignment will be solve as a polynomial regression soon.
+---
+## Assignment 40
+#### Titanic[^titanic_dataset]
+
+
+| Algorithm        | KNN           | Perceptron  | MLP (Multi Layer Perceptron) |
+| ------------- |:-------------:|:-----:|:---:|
+| Accuracy | 72.66% | 43.16% | 92.57% |
+
+[^titanic_dataset]: <a href='https://www.kaggle.com/c/titanic/data'>Titanic Dataset</a>
