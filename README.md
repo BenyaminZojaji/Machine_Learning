@@ -117,7 +117,7 @@
 > ![loss](https://user-images.githubusercontent.com/77120507/154802051-e81a8ff1-5883-4b66-86e7-455c2cfbdfdb.png)
 ![r2](https://user-images.githubusercontent.com/77120507/154802054-d9bf3211-3220-4e1f-8eab-5c728ced739e.png)
 
-[^bad-fit-1]: I am aware of linear model can not fit the data perfectly. This assignment will be solve as a polynomial regression soon.
+[^bad-fit-1]: I am aware of linear model can not fit the data perfectly. This assignment solved with mlp in <a href="https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment41">Assignment 41</a>.
 ---
 ## Assignment 40
 #### Titanic[^titanic_dataset]
