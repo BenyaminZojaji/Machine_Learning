@@ -8,4 +8,4 @@
 ![r2](https://user-images.githubusercontent.com/77120507/154802054-d9bf3211-3220-4e1f-8eab-5c728ced739e.png)
 
 
-[^1]: I am aware of linear model can not fit the data perfectly. This assignment will be solve as a polynomial regression soon.
+[^1]: I am aware of linear model can not fit the data perfectly. This assignment solved with mlp in <a href="https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment41">Assignment 41</a>.
