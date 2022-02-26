@@ -128,3 +128,11 @@
 | Accuracy | 72.66% | 43.16% | 92.57% |
 
 [^titanic_dataset]: <a href='https://www.kaggle.com/c/titanic/data'>Titanic Dataset</a>
+---
+## Assignment 41
+#### MLP-Weather
+- solve <a href='https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment39'>Assignment39</a> with Multi Layer Perceptron.
+
+| epoch        | 5           | 10  | 100 | 800 |
+| ------------- |:-------------:|:-----:|:---:|:---:|
+| Loss | 1.10 | 0.69 | 0.17 | 0.13 |
