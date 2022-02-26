@@ -1,5 +1,5 @@
 ## MLP-Weather
-- solving <a href='https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment39'>Assignment39</a> with Multi Layer Perceptron.
+- solve <a href='https://github.com/BenyaminZojaji/Machine_Learning/tree/main/Assignment39'>Assignment39</a> with Multi Layer Perceptron.
 
 | epoch        | 5           | 10  | 100 | 800 |
 | ------------- |:-------------:|:-----:|:---:|:---:|
