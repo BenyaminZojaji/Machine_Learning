@@ -107,6 +107,12 @@
 
 [^eda]: EDA stands for Exploratory Data Analysis
 ---
+## Assignment 38
+#### Perceptrone
+
+> ![scatter-lossPlot](https://user-images.githubusercontent.com/77120507/153712969-244e27ba-682b-4df6-85f0-9bf71e341884.png)
+
+---
 ## Assignment 39
 #### Weather Forecast: (Linear Regression)
 - The climate of a particular city is recorded every hour during different years. So, weather information is recorded 24 times per day.
